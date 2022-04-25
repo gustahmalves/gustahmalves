@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://64.media.tumblr.com/ed8745b30c1a1d7eb1935017c94d8dbf/tumblr_n9i8foLj941qc2xm1o1_500.gifv"/>
+<img align="left" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
     
     I'm Gustavo, nice to e-meet you :)
     Software Engineer @ Cybersecurity student
