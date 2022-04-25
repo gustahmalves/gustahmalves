@@ -6,7 +6,8 @@
     - Cybersecurity
     - Software Engineer
     - Front end
-    - Love games
+    - Game lover
+    - Sometimes streamer
 
 
 [<img src="https://img.shields.io/badge/Portifolio-2962FF?style=for-the-badge&logo=Portifolio&logoColor=white"/>](http://gustavomoraes.net/) [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:gus.hmalves@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavo-alves-01609b157/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gushmalves/) 
