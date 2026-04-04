@@ -2,8 +2,8 @@
     
        Cloud Engineer and DevOps student
 
-    - Cloud
-    - DevOps
+    - Cloud - AWS and Azure
+    - DevOps - IaC, CI/CD
     
 
 
